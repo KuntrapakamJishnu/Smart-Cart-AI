@@ -141,7 +141,7 @@ Flutterzon is a purpose-driven initiative, with the primary goal of creating an 
 - Clone this repository
 
   ```bash
-  https://github.com/tejasbadone/flutterzon_bloc.git
+  https://github.com/KuntrapakamJishnu/Smart-Cart-AI.git
   ```
 
 - Migrate to the root directory and install all the required dependencies by running
@@ -174,11 +174,8 @@ Flutterzon is a purpose-driven initiative, with the primary goal of creating an 
   OR
   npm start (to run index.js)
   ```
-  Please star⭐ the repo if you like what you see😉.
 
-## Download
 
-Download apk - https://drive.google.com/file/d/1K1k8DbwHfyAnujwRAPgzXmcEUVABFB_p/view?usp=sharing
 
 ## Test Credentials
 
@@ -199,21 +196,12 @@ Download apk - https://drive.google.com/file/d/1K1k8DbwHfyAnujwRAPgzXmcEUVABFB_p
 
 - Please be aware that the application or APIs might experience delays in providing details, as the server is hosted on a hobby plan, If there is no activity for 15 minutes, the server may go to sleep, resulting in a delay in processing the first API request. Your patience during this process is greatly appreciated.
 
-- If you are interested, there is another version of this project built using Provider and Flutter's `setState`. You can access it [here](https://github.com/tejasbadone/flutterzon_provider).
 
 ## Disclaimer
 
 This application is a personal project built with educational and learning purposes in mind. It is neither affiliated nor endorsed by Amazon in any way. While the app features product details and images inspired by Amazon, these are solely for demonstration purposes and may not represent actual products. All rights to these elements belong to their respective owners. We are using them for educational purposes only and have no intention of commercial exploitation.
 
 Additionally, be aware that any attempts to place orders within this prototype are purely for testing purposes and will not result in actual product deliveries or charges in the real-world. This environment is designated exclusively for simulation and development purposes
-
-## Contact
-
-- Tejas Badone <br> <br>
-  <a  href="https://www.linkedin.com/in/tejasbadone/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tejas.badone25@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-  feel free to contact me!
 
 ## License
 
