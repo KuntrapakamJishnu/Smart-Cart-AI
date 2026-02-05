@@ -1,12 +1,12 @@
-# Flutterzon - Amazon Clone w/ Flutter
+# Smart Cart AI - Amazon Clone w/ Flutter
 
-![Flutterzon](https://res.cloudinary.com/dthljz11q/image/upload/v1701778309/app%20screenshots/siolcwzafbcuqch3j1sm.png)
+![Smart Cart AI](https://res.cloudinary.com/dthljz11q/image/upload/v1701778309/app%20screenshots/siolcwzafbcuqch3j1sm.png)
 
-Flutterzon is dedicated to the creation of an Amazon clone app, functioning as a full-stack e-commerce application. The technology stack includes Flutter for the front end, Node.js for the backend, MongoDB for data storage, Bloc for efficient state management, and Cloudinary for seamless image and media management. The primary objective is to faithfully mirror the functionality and user experience found in the Amazon mobile app.
+Smart Cart AI is dedicated to the creation of an Amazon clone app, functioning as a full-stack e-commerce application. The technology stack includes Flutter for the front end, Node.js for the backend, MongoDB for data storage, Bloc for efficient state management, and Cloudinary for seamless image and media management. The primary objective is to faithfully mirror the functionality and user experience found in the Amazon mobile app.
 
-Flutterzon focuses on delivering a seamless and responsive user interface, ensuring a smooth and intuitive experience for users navigating the platform. It also has the Admin Panel, strategically integrated to enhance control and facilitate effective management. This additional component caters to administrative needs, providing ways for overseeing and optimizing various aspects of the application.
+Smart Cart AI focuses on delivering a seamless and responsive user interface, ensuring a smooth and intuitive experience for users navigating the platform. It also has the Admin Panel, strategically integrated to enhance control and facilitate effective management. This additional component caters to administrative needs, providing ways for overseeing and optimizing various aspects of the application.
 
-Flutterzon is a purpose-driven initiative, with the primary goal of creating an Amazon clone app that faithfully reproduces the renowned functionality and user experience of the Amazon mobile app.
+Smart Cart AI is a purpose-driven initiative, with the primary goal of creating an Amazon clone app that faithfully reproduces the renowned functionality and user experience of the Amazon mobile app.
 
 ## Tech Stack
 
@@ -192,7 +192,7 @@ Flutterzon is a purpose-driven initiative, with the primary goal of creating an 
 
 - If you wish to place an order in the application, you can enroll in the [Google Pay API Test Cards Allowlist](https://groups.google.com/g/googlepay-test-mode-stub-data). This will provide you with mock card details, allowing you to safely test the order placement functionality within a controlled environment.
 
-- For the GitHub version of Flutterzon apk provided above, please note that certain administrative features, such as the ability to delete products and offers, have been intentionally disabled to prevent unintended tampering with the actual database. The original codebase, accessible to you, includes the complete functionality, including the ability to delete products. If you wish to explore the full range of features, please refer to the original code provided.
+
 
 - Please be aware that the application or APIs might experience delays in providing details, as the server is hosted on a hobby plan, If there is no activity for 15 minutes, the server may go to sleep, resulting in a delay in processing the first API request. Your patience during this process is greatly appreciated.
 
@@ -203,6 +203,3 @@ This application is a personal project built with educational and learning purpo
 
 Additionally, be aware that any attempts to place orders within this prototype are purely for testing purposes and will not result in actual product deliveries or charges in the real-world. This environment is designated exclusively for simulation and development purposes
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/tejasbadone/flutterzon_bloc/blob/main/LICENSE) file for details
