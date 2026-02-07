@@ -1,6 +1,6 @@
 # Smart Cart AI - Amazon Clone w/ Flutter
 
-![Smart Cart AI](https://res.cloudinary.com/dthljz11q/image/upload/v1701778309/app%20screenshots/siolcwzafbcuqch3j1sm.png)
+![Smart Cart AI]
 
 Smart Cart AI is dedicated to the creation of an Amazon clone app, functioning as a full-stack e-commerce application. The technology stack includes Flutter for the front end, Node.js for the backend, MongoDB for data storage, Bloc for efficient state management, and Cloudinary for seamless image and media management. The primary objective is to faithfully mirror the functionality and user experience found in the Amazon mobile app.
 
